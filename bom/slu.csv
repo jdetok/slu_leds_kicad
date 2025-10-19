@@ -1,0 +1,11 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"d42,d9,d25,d52,d53,d59,d44,d55,d47,d23,d24,d20,d40,d27,d51,d49,d54,d33,d12,d11,d31,d60,d36,d41,d2,d6,d4,d64,d50,d38,d14,d57,d16,d58,d61,d15,d62,d48,d19,d30,d5,d7,d46,d56,d13,d10,d45,d21,d1,d26,d34,d22,d39,d18,d35,d37,d63,d8,d43,d32,d17,d28,d3,d29";"3528led";64;"3528led";;;
+2;"a1";"Arduino_Nano";1;"nanov3";;;
+3;"r59,r58,r60,r57,r43,r5,r4,r2,r3,r1,r63,r62,r64,r61,r7,r8,r6,r66,r65,r70,r69,r68,r67,r72,r71,r25,r18,r12,r15,r51,r44,r34,r32,r22,r21,r56,r16,r27,r11,r29,r33,r46,r47,r24,r26,r19,r14,r36,r50,r37,r10,r38,r20,r39,r31,r42,r55,r40,r52,r53,r28,r49,r9,r54,r48,r45,r41,r13,r30,r23,r17,r35";"r1206";72;"~";;;
+4;"c1,c9,c8,c7,c6,c5,c4,c3,c2";"cap1206";9;"c1206";;;
+5;"ICO1,ICO8,ICO7,ICO6,ICO5,ICO4,ICO3,ICO2";"SOP-16_4.4x10.4mm_P1.27mm";8;"SOP-16_4.4x10.4mm_P1.27mm";;;
+6;"BT1";"btry_18650_foirot";1;"Battery";;;
+7;"ICI1";"SO-16_3.9x9.9mm_P1.27mm";1;"SOP-16_4.4x10.4mm_P1.27mm";;;
+8;"b8,b2,b1,b3,b4,b5,b6,b7";"btn_4x3";8;"button";;;
+9;"sw1";"sw_2pos_spdt";1;"sw_2pos";;;
+10;"c_tht1";"cpolar_4_1.5";1;"cap_tht";;;

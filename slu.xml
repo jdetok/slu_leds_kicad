@@ -1,0 +1,3885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/jdeto/mkr/slu/slu.kicad_sch</source>
+    <date>2025-10-15T23:48:06-0500</date>
+    <tool>Eeschema 9.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>slu.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="d1">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed2c91ce-8fec-49b4-9bf3-d7fc8c677a99</tstamps>
+    </comp>
+    <comp ref="d2">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d50541a-6b2b-4d40-933b-8bbd54015a60</tstamps>
+    </comp>
+    <comp ref="d3">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>170ebe38-af81-4de6-8d73-d97863866d0a</tstamps>
+    </comp>
+    <comp ref="d4">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b1b995e-d035-43d8-b73b-01d031f10ecf</tstamps>
+    </comp>
+    <comp ref="d5">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b1832a5-576a-4935-b36c-5d1c6c7d812e</tstamps>
+    </comp>
+    <comp ref="d6">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b539fc31-b705-4528-ba38-b6584ae85e66</tstamps>
+    </comp>
+    <comp ref="d7">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb552a8a-a8a1-444b-b49e-7a20c079556b</tstamps>
+    </comp>
+    <comp ref="d8">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28962254-a28d-4d49-9561-39d28bcc9cb9</tstamps>
+    </comp>
+    <comp ref="d9">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0026595-83c7-467e-b9e1-83b34687c115</tstamps>
+    </comp>
+    <comp ref="d10">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ef68e22-4b0d-49a0-9eaa-bce2039f88a9</tstamps>
+    </comp>
+    <comp ref="d11">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7917364-a57a-44d3-9c76-2aad31b28dec</tstamps>
+    </comp>
+    <comp ref="d12">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4f7fefe-851d-4a6a-8157-02fcc92caabc</tstamps>
+    </comp>
+    <comp ref="d13">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1264536b-daeb-4377-9a78-f22596155c2d</tstamps>
+    </comp>
+    <comp ref="d14">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cfe88cb6-be95-445e-a64f-a444ee551b0a</tstamps>
+    </comp>
+    <comp ref="d15">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fbe9c29-a324-42ae-9ac5-035bb698291d</tstamps>
+    </comp>
+    <comp ref="d16">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b57343ff-551c-4082-81f5-ed83e66e3acb</tstamps>
+    </comp>
+    <comp ref="d17">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ae63a15-b4a3-49d3-ac81-5c6e24505128</tstamps>
+    </comp>
+    <comp ref="d18">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6893a0a7-ff00-4d46-b667-1ceed9a6cf90</tstamps>
+    </comp>
+    <comp ref="d19">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e329a33-3f0e-4880-b7e2-a66754b2a664</tstamps>
+    </comp>
+    <comp ref="d20">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa7aaa06-3d79-4b20-b019-a3dcfa88d5bb</tstamps>
+    </comp>
+    <comp ref="d21">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>095d53e6-75c1-4838-9098-6fabf02aa6c3</tstamps>
+    </comp>
+    <comp ref="d22">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ced0c690-dcd0-4769-b1b4-7aa258fa912c</tstamps>
+    </comp>
+    <comp ref="d23">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4dd33085-4bc7-4fb7-bb49-726b181dd4c0</tstamps>
+    </comp>
+    <comp ref="d24">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d46dc921-f6f4-4713-8813-12a3c1a6f65e</tstamps>
+    </comp>
+    <comp ref="d25">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d641927-6360-4ca8-b2ae-e24b99f9689c</tstamps>
+    </comp>
+    <comp ref="d26">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e28aa3e5-e9e7-4510-87b8-def204774786</tstamps>
+    </comp>
+    <comp ref="d27">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>924f78db-18ff-45b9-84f0-6206b34120af</tstamps>
+    </comp>
+    <comp ref="d28">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c482d1a-c1c2-4855-9d7e-8ef619332028</tstamps>
+    </comp>
+    <comp ref="d29">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3221e99e-4a43-4c9d-a65c-fe6cbf064aa4</tstamps>
+    </comp>
+    <comp ref="d30">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d224640c-fb59-43d1-adbe-0702e740c1d3</tstamps>
+    </comp>
+    <comp ref="d31">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb30dcbf-301d-46b7-a4e8-87fc48934e53</tstamps>
+    </comp>
+    <comp ref="d32">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>192f0675-0a68-4cd7-8bc9-d1afafc82117</tstamps>
+    </comp>
+    <comp ref="d33">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>941a5109-2339-4eb7-9bae-aa00b1e93f57</tstamps>
+    </comp>
+    <comp ref="d34">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48d9b1ff-f82b-4b78-96e1-7af133623071</tstamps>
+    </comp>
+    <comp ref="d35">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ea4db1c-cef8-47d6-8eb3-ab48392cddf2</tstamps>
+    </comp>
+    <comp ref="d36">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>831d0df0-ac45-4eca-af0f-fd76f8d8d800</tstamps>
+    </comp>
+    <comp ref="d37">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea27b0c5-024f-4221-bc9e-93d4e5e44c6c</tstamps>
+    </comp>
+    <comp ref="d38">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71ecdd85-d441-43f8-81be-d8df53278473</tstamps>
+    </comp>
+    <comp ref="d39">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1bc0aced-af14-46fc-a724-04fb88237d61</tstamps>
+    </comp>
+    <comp ref="d40">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94266503-fdf9-4798-986b-b4984355906d</tstamps>
+    </comp>
+    <comp ref="d41">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b685bcd-bc2e-40fa-92ee-c2fd0f80ef50</tstamps>
+    </comp>
+    <comp ref="d42">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9436df04-93f9-4cd9-b261-2a078f7882b0</tstamps>
+    </comp>
+    <comp ref="d43">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fda68037-4072-4975-97eb-845240198d6d</tstamps>
+    </comp>
+    <comp ref="d44">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0761ed7b-6431-4800-9605-cf9fc244a4d6</tstamps>
+    </comp>
+    <comp ref="d45">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>407698d3-1fb2-4471-a480-6a8ac66ae328</tstamps>
+    </comp>
+    <comp ref="d46">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3486f71f-55f4-4c15-94ea-486a0090c8af</tstamps>
+    </comp>
+    <comp ref="d47">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>287fa171-c87f-427c-acdd-2f4d455933f9</tstamps>
+    </comp>
+    <comp ref="d48">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e63a3d8-2277-4bc1-96af-71401b05ac94</tstamps>
+    </comp>
+    <comp ref="d49">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93a87f4d-0f9c-4a72-8353-10b0bdc746a0</tstamps>
+    </comp>
+    <comp ref="d50">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4b70c66-367f-4436-b731-36ffb3645748</tstamps>
+    </comp>
+    <comp ref="d51">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7ce4bc7-83de-427e-8bd1-bc29c1553940</tstamps>
+    </comp>
+    <comp ref="d52">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2390dcd5-6466-4b71-9a5d-db3059d281e3</tstamps>
+    </comp>
+    <comp ref="d53">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5e83ca7-f806-479b-b2c2-4a07e9e4e62d</tstamps>
+    </comp>
+    <comp ref="d54">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc68477e-4ca2-4aa7-b832-425cb5c92a85</tstamps>
+    </comp>
+    <comp ref="d55">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22ec74e3-5c05-4450-8ede-553b4e1d7232</tstamps>
+    </comp>
+    <comp ref="d56">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81fd7b8b-1108-4593-ad90-32fb69fc3286</tstamps>
+    </comp>
+    <comp ref="d57">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a92e62f-4747-4867-85d5-38a690e0c3c1</tstamps>
+    </comp>
+    <comp ref="d58">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc2ee3a4-9f7f-40c9-bd45-1c06c5052e0e</tstamps>
+    </comp>
+    <comp ref="d59">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d7105d2-42b3-44e3-946a-b4f2fce45be6</tstamps>
+    </comp>
+    <comp ref="d60">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd74d85d-4aa2-47da-9de2-40c02b34950a</tstamps>
+    </comp>
+    <comp ref="d61">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ace22d60-7647-4757-a2a8-0f06212e854e</tstamps>
+    </comp>
+    <comp ref="d62">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbabc165-0086-49e9-9b29-366054463c1a</tstamps>
+    </comp>
+    <comp ref="d63">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fdebe84-5104-411e-ab24-b09bfce86cf0</tstamps>
+    </comp>
+    <comp ref="d64">
+      <value>LED</value>
+      <footprint>a_detolib:3528led</footprint>
+      <datasheet>~</datasheet>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="led_3528" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71a595eb-1066-4d7c-9c7b-165c625415c0</tstamps>
+    </comp>
+    <comp ref="ICO-1">
+      <value>74HC595D</value>
+      <footprint>Package_SO:SOP-16_4.4x10.4mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</datasheet>
+      <description>8-bit serial in/out Shift Register 3-State Outputs</description>
+      <fields>
+        <field name="Footprint">Package_SO:SOP-16_4.4x10.4mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</field>
+        <field name="Description">8-bit serial in/out Shift Register 3-State Outputs</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="74HC595D" description="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="HCMOS SR 3State"/>
+      <property name="ki_fp_filters" value="DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm* SOIC*5.3x10.2mm*P1.27mm* SOIC*7.5x10.3mm*P1.27mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3a6057f-21dd-4f81-ae47-46c4ac779ade</tstamps>
+    </comp>
+    <comp ref="ICO-2">
+      <value>74HC595D</value>
+      <footprint>Package_SO:SOP-16_4.4x10.4mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</datasheet>
+      <description>8-bit serial in/out Shift Register 3-State Outputs</description>
+      <fields>
+        <field name="Footprint">Package_SO:SOP-16_4.4x10.4mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</field>
+        <field name="Description">8-bit serial in/out Shift Register 3-State Outputs</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="74HC595D" description="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="HCMOS SR 3State"/>
+      <property name="ki_fp_filters" value="DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm* SOIC*5.3x10.2mm*P1.27mm* SOIC*7.5x10.3mm*P1.27mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa4bc588-919b-461e-891c-04308ba3e864</tstamps>
+    </comp>
+    <comp ref="ICO-3">
+      <value>74HC595D</value>
+      <footprint>Package_SO:SOP-16_4.4x10.4mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</datasheet>
+      <description>8-bit serial in/out Shift Register 3-State Outputs</description>
+      <fields>
+        <field name="Footprint">Package_SO:SOP-16_4.4x10.4mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</field>
+        <field name="Description">8-bit serial in/out Shift Register 3-State Outputs</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="74HC595D" description="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="HCMOS SR 3State"/>
+      <property name="ki_fp_filters" value="DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm* SOIC*5.3x10.2mm*P1.27mm* SOIC*7.5x10.3mm*P1.27mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0b55cd1-de7d-4d0c-ad09-29b247ad7b98</tstamps>
+    </comp>
+    <comp ref="ICO-4">
+      <value>74HC595D</value>
+      <footprint>Package_SO:SOP-16_4.4x10.4mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</datasheet>
+      <description>8-bit serial in/out Shift Register 3-State Outputs</description>
+      <fields>
+        <field name="Footprint">Package_SO:SOP-16_4.4x10.4mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</field>
+        <field name="Description">8-bit serial in/out Shift Register 3-State Outputs</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="74HC595D" description="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="HCMOS SR 3State"/>
+      <property name="ki_fp_filters" value="DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm* SOIC*5.3x10.2mm*P1.27mm* SOIC*7.5x10.3mm*P1.27mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8336095d-1d15-46e5-b5d5-cca18e97ae5a</tstamps>
+    </comp>
+    <comp ref="ICO-5">
+      <value>74HC595D</value>
+      <footprint>Package_SO:SOP-16_4.4x10.4mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</datasheet>
+      <description>8-bit serial in/out Shift Register 3-State Outputs</description>
+      <fields>
+        <field name="Footprint">Package_SO:SOP-16_4.4x10.4mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</field>
+        <field name="Description">8-bit serial in/out Shift Register 3-State Outputs</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="74HC595D" description="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="HCMOS SR 3State"/>
+      <property name="ki_fp_filters" value="DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm* SOIC*5.3x10.2mm*P1.27mm* SOIC*7.5x10.3mm*P1.27mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e0e2211-2e66-4fbe-96f8-6200f6f0a85b</tstamps>
+    </comp>
+    <comp ref="ICO-6">
+      <value>74HC595D</value>
+      <footprint>Package_SO:SOP-16_4.4x10.4mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</datasheet>
+      <description>8-bit serial in/out Shift Register 3-State Outputs</description>
+      <fields>
+        <field name="Footprint">Package_SO:SOP-16_4.4x10.4mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</field>
+        <field name="Description">8-bit serial in/out Shift Register 3-State Outputs</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="74HC595D" description="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="HCMOS SR 3State"/>
+      <property name="ki_fp_filters" value="DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm* SOIC*5.3x10.2mm*P1.27mm* SOIC*7.5x10.3mm*P1.27mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e682cfba-6181-4eae-b4c8-53e6ed5ab665</tstamps>
+    </comp>
+    <comp ref="ICO-7">
+      <value>74HC595D</value>
+      <footprint>Package_SO:SOP-16_4.4x10.4mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</datasheet>
+      <description>8-bit serial in/out Shift Register 3-State Outputs</description>
+      <fields>
+        <field name="Footprint">Package_SO:SOP-16_4.4x10.4mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</field>
+        <field name="Description">8-bit serial in/out Shift Register 3-State Outputs</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="74HC595D" description="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="HCMOS SR 3State"/>
+      <property name="ki_fp_filters" value="DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm* SOIC*5.3x10.2mm*P1.27mm* SOIC*7.5x10.3mm*P1.27mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c54063ab-5b58-497e-90c8-97e17fa89ace</tstamps>
+    </comp>
+    <comp ref="ICO-8">
+      <value>74HC595D</value>
+      <footprint>Package_SO:SOP-16_4.4x10.4mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</datasheet>
+      <description>8-bit serial in/out Shift Register 3-State Outputs</description>
+      <fields>
+        <field name="Footprint">Package_SO:SOP-16_4.4x10.4mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</field>
+        <field name="Description">8-bit serial in/out Shift Register 3-State Outputs</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="74HC595D" description="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="HCMOS SR 3State"/>
+      <property name="ki_fp_filters" value="DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm* SOIC*5.3x10.2mm*P1.27mm* SOIC*7.5x10.3mm*P1.27mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ce60004-b790-487e-8c78-89d065c8a6d6</tstamps>
+    </comp>
+    <comp ref="r1">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7929ba4-46f7-4c5b-9c21-13118982edab</tstamps>
+    </comp>
+    <comp ref="r2">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ef88724-7098-4a94-9c12-844e66e96f93</tstamps>
+    </comp>
+    <comp ref="r3">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c5f38d3-9962-4fb4-b24c-38e8aa5ab4cd</tstamps>
+    </comp>
+    <comp ref="r4">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc65204d-80db-4c59-bef8-231c75c33aec</tstamps>
+    </comp>
+    <comp ref="r5">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f45f249-c627-49b9-ad32-b9f0b1480dd5</tstamps>
+    </comp>
+    <comp ref="r6">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>730c94dc-4043-42b2-8027-e545d3411853</tstamps>
+    </comp>
+    <comp ref="r7">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0bd427c4-6579-4b0d-bf57-6a805f52c8f0</tstamps>
+    </comp>
+    <comp ref="r8">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b080204e-7ead-46f4-b714-2fe104c42b72</tstamps>
+    </comp>
+    <comp ref="r9">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2dcf87bd-5b44-489a-989f-0b1e76cec9a4</tstamps>
+    </comp>
+    <comp ref="r10">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11b32482-2fb3-4d59-aeac-aed01976b4d0</tstamps>
+    </comp>
+    <comp ref="r11">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08f4e648-997a-4ed2-91c7-58cff90fa7b8</tstamps>
+    </comp>
+    <comp ref="r12">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aae029a6-d3bf-4eea-a0e6-2381184e10d9</tstamps>
+    </comp>
+    <comp ref="r13">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a2c9e8d-c450-45a1-9111-e883a8ace5db</tstamps>
+    </comp>
+    <comp ref="r14">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28779294-17ba-420f-82de-5924961d7708</tstamps>
+    </comp>
+    <comp ref="r15">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>688cf2a5-814a-49fa-a05b-5dec47274e08</tstamps>
+    </comp>
+    <comp ref="r16">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25cc37c4-c742-4e04-8b97-033e2eb6774b</tstamps>
+    </comp>
+    <comp ref="r17">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04ee430a-31bf-4af1-8ae8-285c33745db1</tstamps>
+    </comp>
+    <comp ref="r18">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e20dc2c2-4226-4399-ad18-420a4636b6ca</tstamps>
+    </comp>
+    <comp ref="r19">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ef66ce7-543f-4e21-a5e8-32e84ab08587</tstamps>
+    </comp>
+    <comp ref="r20">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06ed2a55-3c35-4c95-b153-44d923c5d1f2</tstamps>
+    </comp>
+    <comp ref="r21">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15bb5c71-cac0-42e1-a18e-96f669939a83</tstamps>
+    </comp>
+    <comp ref="r22">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0d8896f-3afe-4d4c-a66a-3a1d198e3837</tstamps>
+    </comp>
+    <comp ref="r23">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0d6ad5a-6f65-48c1-9cce-93e04da09e87</tstamps>
+    </comp>
+    <comp ref="r24">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3181fb68-6dc8-44a7-b8ad-801d3105db0a</tstamps>
+    </comp>
+    <comp ref="r25">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8843e068-101c-43bc-807f-c91631b28fae</tstamps>
+    </comp>
+    <comp ref="r26">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>131c22f5-983a-4e45-b0ce-43cb3ebe2f2e</tstamps>
+    </comp>
+    <comp ref="r27">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40666381-dd80-44ba-a6a5-257d1d132d40</tstamps>
+    </comp>
+    <comp ref="r28">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97207120-f6c9-4433-9442-7e3d131c9b11</tstamps>
+    </comp>
+    <comp ref="r29">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9487176-31bf-4f54-bc02-19650b186e1a</tstamps>
+    </comp>
+    <comp ref="r30">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1227e99-638f-46af-9c8c-8235e9a55e91</tstamps>
+    </comp>
+    <comp ref="r31">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2385832-98cf-49b7-8fb3-fd2638bae866</tstamps>
+    </comp>
+    <comp ref="r32">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6958c1a4-1f11-4615-ba44-57a050e04c3e</tstamps>
+    </comp>
+    <comp ref="r33">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7061317-10b8-4a4b-aa7b-31fba5231212</tstamps>
+    </comp>
+    <comp ref="r34">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce2afbb7-22d0-4160-ba8f-94080634a1f2</tstamps>
+    </comp>
+    <comp ref="r35">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>352fce5c-22b2-4236-9e6c-8a02771c4beb</tstamps>
+    </comp>
+    <comp ref="r36">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae8a7d29-a752-4cb4-8d34-d7060fb7a0d9</tstamps>
+    </comp>
+    <comp ref="r37">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1e60b5a-84ef-4747-aaa1-7deba19eb89a</tstamps>
+    </comp>
+    <comp ref="r38">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4254ef49-5dbc-4ee6-885a-2e271097cf2b</tstamps>
+    </comp>
+    <comp ref="r39">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ea10702-a0ee-4790-9b57-87c3e02f96f7</tstamps>
+    </comp>
+    <comp ref="r40">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e69658af-0c96-4888-ac41-a7d932ac6edb</tstamps>
+    </comp>
+    <comp ref="r41">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eaf37f5d-e95d-4570-98a8-5fbdd8659904</tstamps>
+    </comp>
+    <comp ref="r42">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d42cd679-693c-448a-86ea-58d1eb9454ab</tstamps>
+    </comp>
+    <comp ref="r43">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e7afe04-2848-4a8e-ba6c-a1b85b9fbc1f</tstamps>
+    </comp>
+    <comp ref="r44">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae419d8e-be12-4328-9383-5ecc02483545</tstamps>
+    </comp>
+    <comp ref="r45">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80cb15f4-4fc6-4437-8cd1-b7d2dfe206ef</tstamps>
+    </comp>
+    <comp ref="r46">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a02ac735-d65b-4d76-bdda-b1b0e58826be</tstamps>
+    </comp>
+    <comp ref="r47">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ca9e414-6a0f-4ab1-94cc-f638e5bbc5d0</tstamps>
+    </comp>
+    <comp ref="r48">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e509944-1059-4b1b-9880-e435b4d70127</tstamps>
+    </comp>
+    <comp ref="r49">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2d0ab8e-6573-4e4e-b773-f025b629e56f</tstamps>
+    </comp>
+    <comp ref="r50">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2dd5fe4-22d5-40d7-bd93-64b4c6d49585</tstamps>
+    </comp>
+    <comp ref="r51">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>339104c1-c0dc-4c26-982a-f806be02397b</tstamps>
+    </comp>
+    <comp ref="r52">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f2b741c-789c-4598-a724-9abce32869b8</tstamps>
+    </comp>
+    <comp ref="r53">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a76927b-4fb1-47b2-9777-87631f341d61</tstamps>
+    </comp>
+    <comp ref="r54">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>647634a1-5fa3-4095-b959-f467f8695f9c</tstamps>
+    </comp>
+    <comp ref="r55">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90e9dcaa-e7cd-415d-8f93-486530d99426</tstamps>
+    </comp>
+    <comp ref="r56">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ab786d0-6cb9-4abf-8c6f-cb30466dc011</tstamps>
+    </comp>
+    <comp ref="r57">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f80d69d-1a55-4925-98eb-ee353deaf773</tstamps>
+    </comp>
+    <comp ref="r58">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af0189e0-66e1-44c1-973b-5dba06e78219</tstamps>
+    </comp>
+    <comp ref="r59">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e59af30-f53d-4e9a-ab99-f3d950d39d97</tstamps>
+    </comp>
+    <comp ref="r60">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6aa21857-584d-441e-9649-a5998b43793e</tstamps>
+    </comp>
+    <comp ref="r61">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e31672b-153e-43aa-91ee-f4647aa166bc</tstamps>
+    </comp>
+    <comp ref="r62">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf015a27-c161-45c6-88a2-b1d1bb25a24a</tstamps>
+    </comp>
+    <comp ref="r63">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b16367c-5da5-47de-9afa-2fe15772712a</tstamps>
+    </comp>
+    <comp ref="r64">
+      <value>~</value>
+      <footprint>a_detolib:rstd</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor, US symbol</description>
+      <fields>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="r" description="Resistor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d936f56f-5c83-4538-9396-06ef3b1a120f</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push_smd6</value>
+      <footprint>a_detolib:button6x6</footprint>
+      <datasheet>~</datasheet>
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Footprint">a_detolib:button6x6</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="SW_Push_smd6" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d505570-78d9-4a3e-98a6-d46169db8f41</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push_smd6</value>
+      <footprint>a_detolib:button6x6</footprint>
+      <datasheet>~</datasheet>
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Footprint">a_detolib:button6x6</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="SW_Push_smd6" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcbb7859-b581-411a-bf1a-44c78573477b</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_Push_smd6</value>
+      <footprint>a_detolib:button6x6</footprint>
+      <datasheet>~</datasheet>
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Footprint">a_detolib:button6x6</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="SW_Push_smd6" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22b5182d-300a-40b8-8fd5-d5aecefe7514</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_Push_smd6</value>
+      <footprint>a_detolib:button6x6</footprint>
+      <datasheet>~</datasheet>
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Footprint">a_detolib:button6x6</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="SW_Push_smd6" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88a005ab-2e2f-4f96-99f1-30791dc6384b</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_Push_smd6</value>
+      <footprint>a_detolib:button6x6</footprint>
+      <datasheet>~</datasheet>
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Footprint">a_detolib:button6x6</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="SW_Push_smd6" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>297aa106-447a-4a04-8469-2d1b584ac09e</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_Push_smd6</value>
+      <footprint>a_detolib:button6x6</footprint>
+      <datasheet>~</datasheet>
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Footprint">a_detolib:button6x6</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="SW_Push_smd6" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5a2ecd1-9cb2-4953-b421-1979546ea111</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_Push_smd6</value>
+      <footprint>a_detolib:button6x6</footprint>
+      <datasheet>~</datasheet>
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Footprint">a_detolib:button6x6</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="SW_Push_smd6" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c261a027-ce39-498c-b0e2-2dd444edf80c</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_Push_smd6</value>
+      <footprint>a_detolib:button6x6</footprint>
+      <datasheet>~</datasheet>
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Footprint">a_detolib:button6x6</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="SW_Push_smd6" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>819c3d57-9a51-4ecb-a194-61e7ded232c6</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>74LS165</value>
+      <datasheet>https://www.ti.com/lit/ds/symlink/sn74ls165a.pdf</datasheet>
+      <description>Shift Register 8-bit, parallel load</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn74ls165a.pdf</field>
+        <field name="Description">Shift Register 8-bit, parallel load</field>
+      </fields>
+      <libsource lib="a_detolib_sym" part="74LS165" description="Shift Register 8-bit, parallel load"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="slu.kicad_sch"/>
+      <property name="ki_keywords" value="TTL SR SR8"/>
+      <property name="ki_fp_filters" value="DIP?16* SO*16*3.9x9.9mm*P1.27mm* SSOP*16*5.3x6.2mm*P0.65mm* TSSOP*16*4.4x5mm*P0.65*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8998ba6f-3b19-4f65-a912-e5b3d28ecec2</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="a_detolib_sym" part="74HC595D">
+      <description>8-bit serial in/out Shift Register 3-State Outputs</description>
+      <docs>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*3.9x9.9mm*P1.27mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SOIC*5.3x10.2mm*P1.27mm*</fp>
+        <fp>SOIC*7.5x10.3mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">ICO-</field>
+        <field name="Value">74HC595D</field>
+        <field name="Footprint">Package_SO:SOP-16_4.4x10.4mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</field>
+        <field name="Description">8-bit serial in/out Shift Register 3-State Outputs</field>
+      </fields>
+      <pins>
+        <pin num="1" name="QB" type="tri_state"/>
+        <pin num="2" name="QC" type="tri_state"/>
+        <pin num="3" name="QD" type="tri_state"/>
+        <pin num="4" name="QE" type="tri_state"/>
+        <pin num="5" name="QF" type="tri_state"/>
+        <pin num="6" name="QG" type="tri_state"/>
+        <pin num="7" name="QH" type="tri_state"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="QH'" type="output"/>
+        <pin num="10" name="~{SRCLR}" type="input"/>
+        <pin num="11" name="SRCLK" type="input"/>
+        <pin num="12" name="RCLK" type="input"/>
+        <pin num="13" name="~{OE}" type="input"/>
+        <pin num="14" name="SER" type="input"/>
+        <pin num="15" name="QA" type="tri_state"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="a_detolib_sym" part="74LS165">
+      <description>Shift Register 8-bit, parallel load</description>
+      <docs>https://www.ti.com/lit/ds/symlink/sn74ls165a.pdf</docs>
+      <footprints>
+        <fp>DIP?16*</fp>
+        <fp>SO*16*3.9x9.9mm*P1.27mm*</fp>
+        <fp>SSOP*16*5.3x6.2mm*P0.65mm*</fp>
+        <fp>TSSOP*16*4.4x5mm*P0.65*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS165</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/sn74ls165a.pdf</field>
+        <field name="Description">Shift Register 8-bit, parallel load</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{PL}" type="input"/>
+        <pin num="2" name="CP" type="input"/>
+        <pin num="3" name="D4" type="input"/>
+        <pin num="4" name="D5" type="input"/>
+        <pin num="5" name="D6" type="input"/>
+        <pin num="6" name="D7" type="input"/>
+        <pin num="7" name="~{Q7}" type="output"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="Q7" type="output"/>
+        <pin num="10" name="DS" type="input"/>
+        <pin num="11" name="D0" type="input"/>
+        <pin num="12" name="D1" type="input"/>
+        <pin num="13" name="D2" type="input"/>
+        <pin num="14" name="D3" type="input"/>
+        <pin num="15" name="~{CE}" type="input"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="a_detolib_sym" part="SW_Push_smd6">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push_smd6</field>
+        <field name="Footprint">a_detolib:button6x6</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="a_detolib_sym" part="led_3528">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">d</field>
+        <field name="Value">LED</field>
+        <field name="Footprint">a_detolib:3528led</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Light emitting diode</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="a_detolib_sym" part="r">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">r</field>
+        <field name="Value"/>
+        <field name="Footprint">a_detolib:rstd</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, US symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="a_detolib_sym">
+      <uri>/Users/jdeto/mkr/libraries/a_detolib_sym.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND" class="Default">
+      <node ref="d1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d36" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d37" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d38" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d39" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d40" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d41" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d42" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d43" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d44" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d45" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d46" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d47" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d48" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d49" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d50" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d51" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d52" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d53" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d54" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d55" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d56" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d57" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d58" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d59" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d60" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d61" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d62" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d63" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d64" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="d9" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(d1-A)" class="Default">
+      <node ref="d1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r1" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(d2-A)" class="Default">
+      <node ref="d2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r2" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(d3-A)" class="Default">
+      <node ref="d3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r3" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(d4-A)" class="Default">
+      <node ref="d4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r4" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(d5-A)" class="Default">
+      <node ref="d5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r5" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(d6-A)" class="Default">
+      <node ref="d6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r6" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(d7-A)" class="Default">
+      <node ref="d7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r7" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(d8-A)" class="Default">
+      <node ref="d8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r8" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(d9-A)" class="Default">
+      <node ref="d9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r9" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(d10-A)" class="Default">
+      <node ref="d10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r10" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(d11-A)" class="Default">
+      <node ref="d11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r11" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(d12-A)" class="Default">
+      <node ref="d12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r12" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(d13-A)" class="Default">
+      <node ref="d13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r13" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(d14-A)" class="Default">
+      <node ref="d14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r14" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(d15-A)" class="Default">
+      <node ref="d15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r15" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(d16-A)" class="Default">
+      <node ref="d16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r16" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(d17-A)" class="Default">
+      <node ref="d17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r17" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(d18-A)" class="Default">
+      <node ref="d18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r18" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(d19-A)" class="Default">
+      <node ref="d19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r19" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(d20-A)" class="Default">
+      <node ref="d20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r20" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(d21-A)" class="Default">
+      <node ref="d21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r21" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(d22-A)" class="Default">
+      <node ref="d22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r22" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(d23-A)" class="Default">
+      <node ref="d23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r23" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(d24-A)" class="Default">
+      <node ref="d24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r24" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(d25-A)" class="Default">
+      <node ref="d25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r25" pin="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(d26-A)" class="Default">
+      <node ref="d26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r26" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(d27-A)" class="Default">
+      <node ref="d27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r27" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(d28-A)" class="Default">
+      <node ref="d28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r28" pin="1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(d29-A)" class="Default">
+      <node ref="d29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r29" pin="1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(d30-A)" class="Default">
+      <node ref="d30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r30" pin="1" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(d31-A)" class="Default">
+      <node ref="d31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r31" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(d32-A)" class="Default">
+      <node ref="d32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r32" pin="1" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(d33-A)" class="Default">
+      <node ref="d33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r33" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(d34-A)" class="Default">
+      <node ref="d34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r34" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(d35-A)" class="Default">
+      <node ref="d35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r35" pin="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(d36-A)" class="Default">
+      <node ref="d36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r36" pin="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(d37-A)" class="Default">
+      <node ref="d37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r37" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(d38-A)" class="Default">
+      <node ref="d38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r38" pin="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(d39-A)" class="Default">
+      <node ref="d39" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r39" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(d40-A)" class="Default">
+      <node ref="d40" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r40" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(d41-A)" class="Default">
+      <node ref="d41" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r41" pin="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(d42-A)" class="Default">
+      <node ref="d42" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r42" pin="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(d43-A)" class="Default">
+      <node ref="d43" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r43" pin="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(d44-A)" class="Default">
+      <node ref="d44" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r44" pin="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(d45-A)" class="Default">
+      <node ref="d45" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r45" pin="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(d46-A)" class="Default">
+      <node ref="d46" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r46" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(d47-A)" class="Default">
+      <node ref="d47" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r47" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(d48-A)" class="Default">
+      <node ref="d48" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r48" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(d49-A)" class="Default">
+      <node ref="d49" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r49" pin="1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(d50-A)" class="Default">
+      <node ref="d50" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r50" pin="1" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(d51-A)" class="Default">
+      <node ref="d51" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r51" pin="1" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(d52-A)" class="Default">
+      <node ref="d52" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r52" pin="1" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(d53-A)" class="Default">
+      <node ref="d53" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r53" pin="1" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(d54-A)" class="Default">
+      <node ref="d54" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r54" pin="1" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(d55-A)" class="Default">
+      <node ref="d55" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r55" pin="1" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(d56-A)" class="Default">
+      <node ref="d56" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r56" pin="1" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(d57-A)" class="Default">
+      <node ref="d57" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r57" pin="1" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(d58-A)" class="Default">
+      <node ref="d58" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r58" pin="1" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(d59-A)" class="Default">
+      <node ref="d59" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r59" pin="1" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(d60-A)" class="Default">
+      <node ref="d60" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r60" pin="1" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(d61-A)" class="Default">
+      <node ref="d61" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r61" pin="1" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(d62-A)" class="Default">
+      <node ref="d62" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r62" pin="1" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(d63-A)" class="Default">
+      <node ref="d63" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r63" pin="1" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(d64-A)" class="Default">
+      <node ref="d64" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="r64" pin="1" pintype="passive"/>
+    </net>
+    <net code="66" name="unconnected-(ICO-1-GND-Pad8)" class="Default">
+      <node ref="ICO-1" pin="8" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="67" name="unconnected-(ICO-1-QA-Pad15)" class="Default">
+      <node ref="ICO-1" pin="15" pinfunction="QA" pintype="tri_state"/>
+    </net>
+    <net code="68" name="unconnected-(ICO-1-QB-Pad1)" class="Default">
+      <node ref="ICO-1" pin="1" pinfunction="QB" pintype="tri_state"/>
+    </net>
+    <net code="69" name="unconnected-(ICO-1-QC-Pad2)" class="Default">
+      <node ref="ICO-1" pin="2" pinfunction="QC" pintype="tri_state"/>
+    </net>
+    <net code="70" name="unconnected-(ICO-1-QD-Pad3)" class="Default">
+      <node ref="ICO-1" pin="3" pinfunction="QD" pintype="tri_state"/>
+    </net>
+    <net code="71" name="unconnected-(ICO-1-QE-Pad4)" class="Default">
+      <node ref="ICO-1" pin="4" pinfunction="QE" pintype="tri_state"/>
+    </net>
+    <net code="72" name="unconnected-(ICO-1-QF-Pad5)" class="Default">
+      <node ref="ICO-1" pin="5" pinfunction="QF" pintype="tri_state"/>
+    </net>
+    <net code="73" name="unconnected-(ICO-1-QG-Pad6)" class="Default">
+      <node ref="ICO-1" pin="6" pinfunction="QG" pintype="tri_state"/>
+    </net>
+    <net code="74" name="unconnected-(ICO-1-QH'-Pad9)" class="Default">
+      <node ref="ICO-1" pin="9" pinfunction="QH'" pintype="output"/>
+    </net>
+    <net code="75" name="unconnected-(ICO-1-QH-Pad7)" class="Default">
+      <node ref="ICO-1" pin="7" pinfunction="QH" pintype="tri_state"/>
+    </net>
+    <net code="76" name="unconnected-(ICO-1-RCLK-Pad12)" class="Default">
+      <node ref="ICO-1" pin="12" pinfunction="RCLK" pintype="input"/>
+    </net>
+    <net code="77" name="unconnected-(ICO-1-SER-Pad14)" class="Default">
+      <node ref="ICO-1" pin="14" pinfunction="SER" pintype="input"/>
+    </net>
+    <net code="78" name="unconnected-(ICO-1-SRCLK-Pad11)" class="Default">
+      <node ref="ICO-1" pin="11" pinfunction="SRCLK" pintype="input"/>
+    </net>
+    <net code="79" name="unconnected-(ICO-1-VCC-Pad16)" class="Default">
+      <node ref="ICO-1" pin="16" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="80" name="unconnected-(ICO-1-~{OE}-Pad13)" class="Default">
+      <node ref="ICO-1" pin="13" pinfunction="~{OE}" pintype="input"/>
+    </net>
+    <net code="81" name="unconnected-(ICO-1-~{SRCLR}-Pad10)" class="Default">
+      <node ref="ICO-1" pin="10" pinfunction="~{SRCLR}" pintype="input"/>
+    </net>
+    <net code="82" name="unconnected-(ICO-2-GND-Pad8)" class="Default">
+      <node ref="ICO-2" pin="8" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="83" name="unconnected-(ICO-2-QA-Pad15)" class="Default">
+      <node ref="ICO-2" pin="15" pinfunction="QA" pintype="tri_state"/>
+    </net>
+    <net code="84" name="unconnected-(ICO-2-QB-Pad1)" class="Default">
+      <node ref="ICO-2" pin="1" pinfunction="QB" pintype="tri_state"/>
+    </net>
+    <net code="85" name="unconnected-(ICO-2-QC-Pad2)" class="Default">
+      <node ref="ICO-2" pin="2" pinfunction="QC" pintype="tri_state"/>
+    </net>
+    <net code="86" name="unconnected-(ICO-2-QD-Pad3)" class="Default">
+      <node ref="ICO-2" pin="3" pinfunction="QD" pintype="tri_state"/>
+    </net>
+    <net code="87" name="unconnected-(ICO-2-QE-Pad4)" class="Default">
+      <node ref="ICO-2" pin="4" pinfunction="QE" pintype="tri_state"/>
+    </net>
+    <net code="88" name="unconnected-(ICO-2-QF-Pad5)" class="Default">
+      <node ref="ICO-2" pin="5" pinfunction="QF" pintype="tri_state"/>
+    </net>
+    <net code="89" name="unconnected-(ICO-2-QG-Pad6)" class="Default">
+      <node ref="ICO-2" pin="6" pinfunction="QG" pintype="tri_state"/>
+    </net>
+    <net code="90" name="unconnected-(ICO-2-QH'-Pad9)" class="Default">
+      <node ref="ICO-2" pin="9" pinfunction="QH'" pintype="output"/>
+    </net>
+    <net code="91" name="unconnected-(ICO-2-QH-Pad7)" class="Default">
+      <node ref="ICO-2" pin="7" pinfunction="QH" pintype="tri_state"/>
+    </net>
+    <net code="92" name="unconnected-(ICO-2-RCLK-Pad12)" class="Default">
+      <node ref="ICO-2" pin="12" pinfunction="RCLK" pintype="input"/>
+    </net>
+    <net code="93" name="unconnected-(ICO-2-SER-Pad14)" class="Default">
+      <node ref="ICO-2" pin="14" pinfunction="SER" pintype="input"/>
+    </net>
+    <net code="94" name="unconnected-(ICO-2-SRCLK-Pad11)" class="Default">
+      <node ref="ICO-2" pin="11" pinfunction="SRCLK" pintype="input"/>
+    </net>
+    <net code="95" name="unconnected-(ICO-2-VCC-Pad16)" class="Default">
+      <node ref="ICO-2" pin="16" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="96" name="unconnected-(ICO-2-~{OE}-Pad13)" class="Default">
+      <node ref="ICO-2" pin="13" pinfunction="~{OE}" pintype="input"/>
+    </net>
+    <net code="97" name="unconnected-(ICO-2-~{SRCLR}-Pad10)" class="Default">
+      <node ref="ICO-2" pin="10" pinfunction="~{SRCLR}" pintype="input"/>
+    </net>
+    <net code="98" name="unconnected-(ICO-3-GND-Pad8)" class="Default">
+      <node ref="ICO-3" pin="8" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="99" name="unconnected-(ICO-3-QA-Pad15)" class="Default">
+      <node ref="ICO-3" pin="15" pinfunction="QA" pintype="tri_state"/>
+    </net>
+    <net code="100" name="unconnected-(ICO-3-QB-Pad1)" class="Default">
+      <node ref="ICO-3" pin="1" pinfunction="QB" pintype="tri_state"/>
+    </net>
+    <net code="101" name="unconnected-(ICO-3-QC-Pad2)" class="Default">
+      <node ref="ICO-3" pin="2" pinfunction="QC" pintype="tri_state"/>
+    </net>
+    <net code="102" name="unconnected-(ICO-3-QD-Pad3)" class="Default">
+      <node ref="ICO-3" pin="3" pinfunction="QD" pintype="tri_state"/>
+    </net>
+    <net code="103" name="unconnected-(ICO-3-QE-Pad4)" class="Default">
+      <node ref="ICO-3" pin="4" pinfunction="QE" pintype="tri_state"/>
+    </net>
+    <net code="104" name="unconnected-(ICO-3-QF-Pad5)" class="Default">
+      <node ref="ICO-3" pin="5" pinfunction="QF" pintype="tri_state"/>
+    </net>
+    <net code="105" name="unconnected-(ICO-3-QG-Pad6)" class="Default">
+      <node ref="ICO-3" pin="6" pinfunction="QG" pintype="tri_state"/>
+    </net>
+    <net code="106" name="unconnected-(ICO-3-QH'-Pad9)" class="Default">
+      <node ref="ICO-3" pin="9" pinfunction="QH'" pintype="output"/>
+    </net>
+    <net code="107" name="unconnected-(ICO-3-QH-Pad7)" class="Default">
+      <node ref="ICO-3" pin="7" pinfunction="QH" pintype="tri_state"/>
+    </net>
+    <net code="108" name="unconnected-(ICO-3-RCLK-Pad12)" class="Default">
+      <node ref="ICO-3" pin="12" pinfunction="RCLK" pintype="input"/>
+    </net>
+    <net code="109" name="unconnected-(ICO-3-SER-Pad14)" class="Default">
+      <node ref="ICO-3" pin="14" pinfunction="SER" pintype="input"/>
+    </net>
+    <net code="110" name="unconnected-(ICO-3-SRCLK-Pad11)" class="Default">
+      <node ref="ICO-3" pin="11" pinfunction="SRCLK" pintype="input"/>
+    </net>
+    <net code="111" name="unconnected-(ICO-3-VCC-Pad16)" class="Default">
+      <node ref="ICO-3" pin="16" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="112" name="unconnected-(ICO-3-~{OE}-Pad13)" class="Default">
+      <node ref="ICO-3" pin="13" pinfunction="~{OE}" pintype="input"/>
+    </net>
+    <net code="113" name="unconnected-(ICO-3-~{SRCLR}-Pad10)" class="Default">
+      <node ref="ICO-3" pin="10" pinfunction="~{SRCLR}" pintype="input"/>
+    </net>
+    <net code="114" name="unconnected-(ICO-4-GND-Pad8)" class="Default">
+      <node ref="ICO-4" pin="8" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="115" name="unconnected-(ICO-4-QA-Pad15)" class="Default">
+      <node ref="ICO-4" pin="15" pinfunction="QA" pintype="tri_state"/>
+    </net>
+    <net code="116" name="unconnected-(ICO-4-QB-Pad1)" class="Default">
+      <node ref="ICO-4" pin="1" pinfunction="QB" pintype="tri_state"/>
+    </net>
+    <net code="117" name="unconnected-(ICO-4-QC-Pad2)" class="Default">
+      <node ref="ICO-4" pin="2" pinfunction="QC" pintype="tri_state"/>
+    </net>
+    <net code="118" name="unconnected-(ICO-4-QD-Pad3)" class="Default">
+      <node ref="ICO-4" pin="3" pinfunction="QD" pintype="tri_state"/>
+    </net>
+    <net code="119" name="unconnected-(ICO-4-QE-Pad4)" class="Default">
+      <node ref="ICO-4" pin="4" pinfunction="QE" pintype="tri_state"/>
+    </net>
+    <net code="120" name="unconnected-(ICO-4-QF-Pad5)" class="Default">
+      <node ref="ICO-4" pin="5" pinfunction="QF" pintype="tri_state"/>
+    </net>
+    <net code="121" name="unconnected-(ICO-4-QG-Pad6)" class="Default">
+      <node ref="ICO-4" pin="6" pinfunction="QG" pintype="tri_state"/>
+    </net>
+    <net code="122" name="unconnected-(ICO-4-QH'-Pad9)" class="Default">
+      <node ref="ICO-4" pin="9" pinfunction="QH'" pintype="output"/>
+    </net>
+    <net code="123" name="unconnected-(ICO-4-QH-Pad7)" class="Default">
+      <node ref="ICO-4" pin="7" pinfunction="QH" pintype="tri_state"/>
+    </net>
+    <net code="124" name="unconnected-(ICO-4-RCLK-Pad12)" class="Default">
+      <node ref="ICO-4" pin="12" pinfunction="RCLK" pintype="input"/>
+    </net>
+    <net code="125" name="unconnected-(ICO-4-SER-Pad14)" class="Default">
+      <node ref="ICO-4" pin="14" pinfunction="SER" pintype="input"/>
+    </net>
+    <net code="126" name="unconnected-(ICO-4-SRCLK-Pad11)" class="Default">
+      <node ref="ICO-4" pin="11" pinfunction="SRCLK" pintype="input"/>
+    </net>
+    <net code="127" name="unconnected-(ICO-4-VCC-Pad16)" class="Default">
+      <node ref="ICO-4" pin="16" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="128" name="unconnected-(ICO-4-~{OE}-Pad13)" class="Default">
+      <node ref="ICO-4" pin="13" pinfunction="~{OE}" pintype="input"/>
+    </net>
+    <net code="129" name="unconnected-(ICO-4-~{SRCLR}-Pad10)" class="Default">
+      <node ref="ICO-4" pin="10" pinfunction="~{SRCLR}" pintype="input"/>
+    </net>
+    <net code="130" name="unconnected-(ICO-5-GND-Pad8)" class="Default">
+      <node ref="ICO-5" pin="8" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="131" name="unconnected-(ICO-5-QA-Pad15)" class="Default">
+      <node ref="ICO-5" pin="15" pinfunction="QA" pintype="tri_state"/>
+    </net>
+    <net code="132" name="unconnected-(ICO-5-QB-Pad1)" class="Default">
+      <node ref="ICO-5" pin="1" pinfunction="QB" pintype="tri_state"/>
+    </net>
+    <net code="133" name="unconnected-(ICO-5-QC-Pad2)" class="Default">
+      <node ref="ICO-5" pin="2" pinfunction="QC" pintype="tri_state"/>
+    </net>
+    <net code="134" name="unconnected-(ICO-5-QD-Pad3)" class="Default">
+      <node ref="ICO-5" pin="3" pinfunction="QD" pintype="tri_state"/>
+    </net>
+    <net code="135" name="unconnected-(ICO-5-QE-Pad4)" class="Default">
+      <node ref="ICO-5" pin="4" pinfunction="QE" pintype="tri_state"/>
+    </net>
+    <net code="136" name="unconnected-(ICO-5-QF-Pad5)" class="Default">
+      <node ref="ICO-5" pin="5" pinfunction="QF" pintype="tri_state"/>
+    </net>
+    <net code="137" name="unconnected-(ICO-5-QG-Pad6)" class="Default">
+      <node ref="ICO-5" pin="6" pinfunction="QG" pintype="tri_state"/>
+    </net>
+    <net code="138" name="unconnected-(ICO-5-QH'-Pad9)" class="Default">
+      <node ref="ICO-5" pin="9" pinfunction="QH'" pintype="output"/>
+    </net>
+    <net code="139" name="unconnected-(ICO-5-QH-Pad7)" class="Default">
+      <node ref="ICO-5" pin="7" pinfunction="QH" pintype="tri_state"/>
+    </net>
+    <net code="140" name="unconnected-(ICO-5-RCLK-Pad12)" class="Default">
+      <node ref="ICO-5" pin="12" pinfunction="RCLK" pintype="input"/>
+    </net>
+    <net code="141" name="unconnected-(ICO-5-SER-Pad14)" class="Default">
+      <node ref="ICO-5" pin="14" pinfunction="SER" pintype="input"/>
+    </net>
+    <net code="142" name="unconnected-(ICO-5-SRCLK-Pad11)" class="Default">
+      <node ref="ICO-5" pin="11" pinfunction="SRCLK" pintype="input"/>
+    </net>
+    <net code="143" name="unconnected-(ICO-5-VCC-Pad16)" class="Default">
+      <node ref="ICO-5" pin="16" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="144" name="unconnected-(ICO-5-~{OE}-Pad13)" class="Default">
+      <node ref="ICO-5" pin="13" pinfunction="~{OE}" pintype="input"/>
+    </net>
+    <net code="145" name="unconnected-(ICO-5-~{SRCLR}-Pad10)" class="Default">
+      <node ref="ICO-5" pin="10" pinfunction="~{SRCLR}" pintype="input"/>
+    </net>
+    <net code="146" name="unconnected-(ICO-6-GND-Pad8)" class="Default">
+      <node ref="ICO-6" pin="8" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="147" name="unconnected-(ICO-6-QA-Pad15)" class="Default">
+      <node ref="ICO-6" pin="15" pinfunction="QA" pintype="tri_state"/>
+    </net>
+    <net code="148" name="unconnected-(ICO-6-QB-Pad1)" class="Default">
+      <node ref="ICO-6" pin="1" pinfunction="QB" pintype="tri_state"/>
+    </net>
+    <net code="149" name="unconnected-(ICO-6-QC-Pad2)" class="Default">
+      <node ref="ICO-6" pin="2" pinfunction="QC" pintype="tri_state"/>
+    </net>
+    <net code="150" name="unconnected-(ICO-6-QD-Pad3)" class="Default">
+      <node ref="ICO-6" pin="3" pinfunction="QD" pintype="tri_state"/>
+    </net>
+    <net code="151" name="unconnected-(ICO-6-QE-Pad4)" class="Default">
+      <node ref="ICO-6" pin="4" pinfunction="QE" pintype="tri_state"/>
+    </net>
+    <net code="152" name="unconnected-(ICO-6-QF-Pad5)" class="Default">
+      <node ref="ICO-6" pin="5" pinfunction="QF" pintype="tri_state"/>
+    </net>
+    <net code="153" name="unconnected-(ICO-6-QG-Pad6)" class="Default">
+      <node ref="ICO-6" pin="6" pinfunction="QG" pintype="tri_state"/>
+    </net>
+    <net code="154" name="unconnected-(ICO-6-QH'-Pad9)" class="Default">
+      <node ref="ICO-6" pin="9" pinfunction="QH'" pintype="output"/>
+    </net>
+    <net code="155" name="unconnected-(ICO-6-QH-Pad7)" class="Default">
+      <node ref="ICO-6" pin="7" pinfunction="QH" pintype="tri_state"/>
+    </net>
+    <net code="156" name="unconnected-(ICO-6-RCLK-Pad12)" class="Default">
+      <node ref="ICO-6" pin="12" pinfunction="RCLK" pintype="input"/>
+    </net>
+    <net code="157" name="unconnected-(ICO-6-SER-Pad14)" class="Default">
+      <node ref="ICO-6" pin="14" pinfunction="SER" pintype="input"/>
+    </net>
+    <net code="158" name="unconnected-(ICO-6-SRCLK-Pad11)" class="Default">
+      <node ref="ICO-6" pin="11" pinfunction="SRCLK" pintype="input"/>
+    </net>
+    <net code="159" name="unconnected-(ICO-6-VCC-Pad16)" class="Default">
+      <node ref="ICO-6" pin="16" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="160" name="unconnected-(ICO-6-~{OE}-Pad13)" class="Default">
+      <node ref="ICO-6" pin="13" pinfunction="~{OE}" pintype="input"/>
+    </net>
+    <net code="161" name="unconnected-(ICO-6-~{SRCLR}-Pad10)" class="Default">
+      <node ref="ICO-6" pin="10" pinfunction="~{SRCLR}" pintype="input"/>
+    </net>
+    <net code="162" name="unconnected-(ICO-7-GND-Pad8)" class="Default">
+      <node ref="ICO-7" pin="8" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="163" name="unconnected-(ICO-7-QA-Pad15)" class="Default">
+      <node ref="ICO-7" pin="15" pinfunction="QA" pintype="tri_state"/>
+    </net>
+    <net code="164" name="unconnected-(ICO-7-QB-Pad1)" class="Default">
+      <node ref="ICO-7" pin="1" pinfunction="QB" pintype="tri_state"/>
+    </net>
+    <net code="165" name="unconnected-(ICO-7-QC-Pad2)" class="Default">
+      <node ref="ICO-7" pin="2" pinfunction="QC" pintype="tri_state"/>
+    </net>
+    <net code="166" name="unconnected-(ICO-7-QD-Pad3)" class="Default">
+      <node ref="ICO-7" pin="3" pinfunction="QD" pintype="tri_state"/>
+    </net>
+    <net code="167" name="unconnected-(ICO-7-QE-Pad4)" class="Default">
+      <node ref="ICO-7" pin="4" pinfunction="QE" pintype="tri_state"/>
+    </net>
+    <net code="168" name="unconnected-(ICO-7-QF-Pad5)" class="Default">
+      <node ref="ICO-7" pin="5" pinfunction="QF" pintype="tri_state"/>
+    </net>
+    <net code="169" name="unconnected-(ICO-7-QG-Pad6)" class="Default">
+      <node ref="ICO-7" pin="6" pinfunction="QG" pintype="tri_state"/>
+    </net>
+    <net code="170" name="unconnected-(ICO-7-QH'-Pad9)" class="Default">
+      <node ref="ICO-7" pin="9" pinfunction="QH'" pintype="output"/>
+    </net>
+    <net code="171" name="unconnected-(ICO-7-QH-Pad7)" class="Default">
+      <node ref="ICO-7" pin="7" pinfunction="QH" pintype="tri_state"/>
+    </net>
+    <net code="172" name="unconnected-(ICO-7-RCLK-Pad12)" class="Default">
+      <node ref="ICO-7" pin="12" pinfunction="RCLK" pintype="input"/>
+    </net>
+    <net code="173" name="unconnected-(ICO-7-SER-Pad14)" class="Default">
+      <node ref="ICO-7" pin="14" pinfunction="SER" pintype="input"/>
+    </net>
+    <net code="174" name="unconnected-(ICO-7-SRCLK-Pad11)" class="Default">
+      <node ref="ICO-7" pin="11" pinfunction="SRCLK" pintype="input"/>
+    </net>
+    <net code="175" name="unconnected-(ICO-7-VCC-Pad16)" class="Default">
+      <node ref="ICO-7" pin="16" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="176" name="unconnected-(ICO-7-~{OE}-Pad13)" class="Default">
+      <node ref="ICO-7" pin="13" pinfunction="~{OE}" pintype="input"/>
+    </net>
+    <net code="177" name="unconnected-(ICO-7-~{SRCLR}-Pad10)" class="Default">
+      <node ref="ICO-7" pin="10" pinfunction="~{SRCLR}" pintype="input"/>
+    </net>
+    <net code="178" name="unconnected-(ICO-8-GND-Pad8)" class="Default">
+      <node ref="ICO-8" pin="8" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="179" name="unconnected-(ICO-8-QA-Pad15)" class="Default">
+      <node ref="ICO-8" pin="15" pinfunction="QA" pintype="tri_state"/>
+    </net>
+    <net code="180" name="unconnected-(ICO-8-QB-Pad1)" class="Default">
+      <node ref="ICO-8" pin="1" pinfunction="QB" pintype="tri_state"/>
+    </net>
+    <net code="181" name="unconnected-(ICO-8-QC-Pad2)" class="Default">
+      <node ref="ICO-8" pin="2" pinfunction="QC" pintype="tri_state"/>
+    </net>
+    <net code="182" name="unconnected-(ICO-8-QD-Pad3)" class="Default">
+      <node ref="ICO-8" pin="3" pinfunction="QD" pintype="tri_state"/>
+    </net>
+    <net code="183" name="unconnected-(ICO-8-QE-Pad4)" class="Default">
+      <node ref="ICO-8" pin="4" pinfunction="QE" pintype="tri_state"/>
+    </net>
+    <net code="184" name="unconnected-(ICO-8-QF-Pad5)" class="Default">
+      <node ref="ICO-8" pin="5" pinfunction="QF" pintype="tri_state"/>
+    </net>
+    <net code="185" name="unconnected-(ICO-8-QG-Pad6)" class="Default">
+      <node ref="ICO-8" pin="6" pinfunction="QG" pintype="tri_state"/>
+    </net>
+    <net code="186" name="unconnected-(ICO-8-QH'-Pad9)" class="Default">
+      <node ref="ICO-8" pin="9" pinfunction="QH'" pintype="output"/>
+    </net>
+    <net code="187" name="unconnected-(ICO-8-QH-Pad7)" class="Default">
+      <node ref="ICO-8" pin="7" pinfunction="QH" pintype="tri_state"/>
+    </net>
+    <net code="188" name="unconnected-(ICO-8-RCLK-Pad12)" class="Default">
+      <node ref="ICO-8" pin="12" pinfunction="RCLK" pintype="input"/>
+    </net>
+    <net code="189" name="unconnected-(ICO-8-SER-Pad14)" class="Default">
+      <node ref="ICO-8" pin="14" pinfunction="SER" pintype="input"/>
+    </net>
+    <net code="190" name="unconnected-(ICO-8-SRCLK-Pad11)" class="Default">
+      <node ref="ICO-8" pin="11" pinfunction="SRCLK" pintype="input"/>
+    </net>
+    <net code="191" name="unconnected-(ICO-8-VCC-Pad16)" class="Default">
+      <node ref="ICO-8" pin="16" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="192" name="unconnected-(ICO-8-~{OE}-Pad13)" class="Default">
+      <node ref="ICO-8" pin="13" pinfunction="~{OE}" pintype="input"/>
+    </net>
+    <net code="193" name="unconnected-(ICO-8-~{SRCLR}-Pad10)" class="Default">
+      <node ref="ICO-8" pin="10" pinfunction="~{SRCLR}" pintype="input"/>
+    </net>
+    <net code="194" name="unconnected-(SW1-Pad1)" class="Default">
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="195" name="unconnected-(SW1-Pad2)" class="Default">
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="196" name="unconnected-(SW2-Pad1)" class="Default">
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="197" name="unconnected-(SW2-Pad2)" class="Default">
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="198" name="unconnected-(SW3-Pad1)" class="Default">
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="199" name="unconnected-(SW3-Pad2)" class="Default">
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="200" name="unconnected-(SW4-Pad1)" class="Default">
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="201" name="unconnected-(SW4-Pad2)" class="Default">
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="202" name="unconnected-(SW5-Pad1)" class="Default">
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="203" name="unconnected-(SW5-Pad2)" class="Default">
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="204" name="unconnected-(SW6-Pad1)" class="Default">
+      <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="205" name="unconnected-(SW6-Pad2)" class="Default">
+      <node ref="SW6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="206" name="unconnected-(SW7-Pad1)" class="Default">
+      <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="207" name="unconnected-(SW7-Pad2)" class="Default">
+      <node ref="SW7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="208" name="unconnected-(SW8-Pad1)" class="Default">
+      <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="209" name="unconnected-(SW8-Pad2)" class="Default">
+      <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="210" name="unconnected-(U1-CP-Pad2)" class="Default">
+      <node ref="U1" pin="2" pinfunction="CP" pintype="input"/>
+    </net>
+    <net code="211" name="unconnected-(U1-D0-Pad11)" class="Default">
+      <node ref="U1" pin="11" pinfunction="D0" pintype="input"/>
+    </net>
+    <net code="212" name="unconnected-(U1-D1-Pad12)" class="Default">
+      <node ref="U1" pin="12" pinfunction="D1" pintype="input"/>
+    </net>
+    <net code="213" name="unconnected-(U1-D2-Pad13)" class="Default">
+      <node ref="U1" pin="13" pinfunction="D2" pintype="input"/>
+    </net>
+    <net code="214" name="unconnected-(U1-D3-Pad14)" class="Default">
+      <node ref="U1" pin="14" pinfunction="D3" pintype="input"/>
+    </net>
+    <net code="215" name="unconnected-(U1-D4-Pad3)" class="Default">
+      <node ref="U1" pin="3" pinfunction="D4" pintype="input"/>
+    </net>
+    <net code="216" name="unconnected-(U1-D5-Pad4)" class="Default">
+      <node ref="U1" pin="4" pinfunction="D5" pintype="input"/>
+    </net>
+    <net code="217" name="unconnected-(U1-D6-Pad5)" class="Default">
+      <node ref="U1" pin="5" pinfunction="D6" pintype="input"/>
+    </net>
+    <net code="218" name="unconnected-(U1-D7-Pad6)" class="Default">
+      <node ref="U1" pin="6" pinfunction="D7" pintype="input"/>
+    </net>
+    <net code="219" name="unconnected-(U1-DS-Pad10)" class="Default">
+      <node ref="U1" pin="10" pinfunction="DS" pintype="input"/>
+    </net>
+    <net code="220" name="unconnected-(U1-GND-Pad8)" class="Default">
+      <node ref="U1" pin="8" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="221" name="unconnected-(U1-Q7-Pad9)" class="Default">
+      <node ref="U1" pin="9" pinfunction="Q7" pintype="output"/>
+    </net>
+    <net code="222" name="unconnected-(U1-VCC-Pad16)" class="Default">
+      <node ref="U1" pin="16" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="223" name="unconnected-(U1-~{CE}-Pad15)" class="Default">
+      <node ref="U1" pin="15" pinfunction="~{CE}" pintype="input"/>
+    </net>
+    <net code="224" name="unconnected-(U1-~{PL}-Pad1)" class="Default">
+      <node ref="U1" pin="1" pinfunction="~{PL}" pintype="input"/>
+    </net>
+    <net code="225" name="unconnected-(U1-~{Q7}-Pad7)" class="Default">
+      <node ref="U1" pin="7" pinfunction="~{Q7}" pintype="output"/>
+    </net>
+    <net code="226" name="unconnected-(r1-Pad2)" class="Default">
+      <node ref="r1" pin="2" pintype="passive"/>
+    </net>
+    <net code="227" name="unconnected-(r2-Pad2)" class="Default">
+      <node ref="r2" pin="2" pintype="passive"/>
+    </net>
+    <net code="228" name="unconnected-(r3-Pad2)" class="Default">
+      <node ref="r3" pin="2" pintype="passive"/>
+    </net>
+    <net code="229" name="unconnected-(r4-Pad2)" class="Default">
+      <node ref="r4" pin="2" pintype="passive"/>
+    </net>
+    <net code="230" name="unconnected-(r5-Pad2)" class="Default">
+      <node ref="r5" pin="2" pintype="passive"/>
+    </net>
+    <net code="231" name="unconnected-(r6-Pad2)" class="Default">
+      <node ref="r6" pin="2" pintype="passive"/>
+    </net>
+    <net code="232" name="unconnected-(r7-Pad2)" class="Default">
+      <node ref="r7" pin="2" pintype="passive"/>
+    </net>
+    <net code="233" name="unconnected-(r8-Pad2)" class="Default">
+      <node ref="r8" pin="2" pintype="passive"/>
+    </net>
+    <net code="234" name="unconnected-(r9-Pad2)" class="Default">
+      <node ref="r9" pin="2" pintype="passive"/>
+    </net>
+    <net code="235" name="unconnected-(r10-Pad2)" class="Default">
+      <node ref="r10" pin="2" pintype="passive"/>
+    </net>
+    <net code="236" name="unconnected-(r11-Pad2)" class="Default">
+      <node ref="r11" pin="2" pintype="passive"/>
+    </net>
+    <net code="237" name="unconnected-(r12-Pad2)" class="Default">
+      <node ref="r12" pin="2" pintype="passive"/>
+    </net>
+    <net code="238" name="unconnected-(r13-Pad2)" class="Default">
+      <node ref="r13" pin="2" pintype="passive"/>
+    </net>
+    <net code="239" name="unconnected-(r14-Pad2)" class="Default">
+      <node ref="r14" pin="2" pintype="passive"/>
+    </net>
+    <net code="240" name="unconnected-(r15-Pad2)" class="Default">
+      <node ref="r15" pin="2" pintype="passive"/>
+    </net>
+    <net code="241" name="unconnected-(r16-Pad2)" class="Default">
+      <node ref="r16" pin="2" pintype="passive"/>
+    </net>
+    <net code="242" name="unconnected-(r17-Pad2)" class="Default">
+      <node ref="r17" pin="2" pintype="passive"/>
+    </net>
+    <net code="243" name="unconnected-(r18-Pad2)" class="Default">
+      <node ref="r18" pin="2" pintype="passive"/>
+    </net>
+    <net code="244" name="unconnected-(r19-Pad2)" class="Default">
+      <node ref="r19" pin="2" pintype="passive"/>
+    </net>
+    <net code="245" name="unconnected-(r20-Pad2)" class="Default">
+      <node ref="r20" pin="2" pintype="passive"/>
+    </net>
+    <net code="246" name="unconnected-(r21-Pad2)" class="Default">
+      <node ref="r21" pin="2" pintype="passive"/>
+    </net>
+    <net code="247" name="unconnected-(r22-Pad2)" class="Default">
+      <node ref="r22" pin="2" pintype="passive"/>
+    </net>
+    <net code="248" name="unconnected-(r23-Pad2)" class="Default">
+      <node ref="r23" pin="2" pintype="passive"/>
+    </net>
+    <net code="249" name="unconnected-(r24-Pad2)" class="Default">
+      <node ref="r24" pin="2" pintype="passive"/>
+    </net>
+    <net code="250" name="unconnected-(r25-Pad2)" class="Default">
+      <node ref="r25" pin="2" pintype="passive"/>
+    </net>
+    <net code="251" name="unconnected-(r26-Pad2)" class="Default">
+      <node ref="r26" pin="2" pintype="passive"/>
+    </net>
+    <net code="252" name="unconnected-(r27-Pad2)" class="Default">
+      <node ref="r27" pin="2" pintype="passive"/>
+    </net>
+    <net code="253" name="unconnected-(r28-Pad2)" class="Default">
+      <node ref="r28" pin="2" pintype="passive"/>
+    </net>
+    <net code="254" name="unconnected-(r29-Pad2)" class="Default">
+      <node ref="r29" pin="2" pintype="passive"/>
+    </net>
+    <net code="255" name="unconnected-(r30-Pad2)" class="Default">
+      <node ref="r30" pin="2" pintype="passive"/>
+    </net>
+    <net code="256" name="unconnected-(r31-Pad2)" class="Default">
+      <node ref="r31" pin="2" pintype="passive"/>
+    </net>
+    <net code="257" name="unconnected-(r32-Pad2)" class="Default">
+      <node ref="r32" pin="2" pintype="passive"/>
+    </net>
+    <net code="258" name="unconnected-(r33-Pad2)" class="Default">
+      <node ref="r33" pin="2" pintype="passive"/>
+    </net>
+    <net code="259" name="unconnected-(r34-Pad2)" class="Default">
+      <node ref="r34" pin="2" pintype="passive"/>
+    </net>
+    <net code="260" name="unconnected-(r35-Pad2)" class="Default">
+      <node ref="r35" pin="2" pintype="passive"/>
+    </net>
+    <net code="261" name="unconnected-(r36-Pad2)" class="Default">
+      <node ref="r36" pin="2" pintype="passive"/>
+    </net>
+    <net code="262" name="unconnected-(r37-Pad2)" class="Default">
+      <node ref="r37" pin="2" pintype="passive"/>
+    </net>
+    <net code="263" name="unconnected-(r38-Pad2)" class="Default">
+      <node ref="r38" pin="2" pintype="passive"/>
+    </net>
+    <net code="264" name="unconnected-(r39-Pad2)" class="Default">
+      <node ref="r39" pin="2" pintype="passive"/>
+    </net>
+    <net code="265" name="unconnected-(r40-Pad2)" class="Default">
+      <node ref="r40" pin="2" pintype="passive"/>
+    </net>
+    <net code="266" name="unconnected-(r41-Pad2)" class="Default">
+      <node ref="r41" pin="2" pintype="passive"/>
+    </net>
+    <net code="267" name="unconnected-(r42-Pad2)" class="Default">
+      <node ref="r42" pin="2" pintype="passive"/>
+    </net>
+    <net code="268" name="unconnected-(r43-Pad2)" class="Default">
+      <node ref="r43" pin="2" pintype="passive"/>
+    </net>
+    <net code="269" name="unconnected-(r44-Pad2)" class="Default">
+      <node ref="r44" pin="2" pintype="passive"/>
+    </net>
+    <net code="270" name="unconnected-(r45-Pad2)" class="Default">
+      <node ref="r45" pin="2" pintype="passive"/>
+    </net>
+    <net code="271" name="unconnected-(r46-Pad2)" class="Default">
+      <node ref="r46" pin="2" pintype="passive"/>
+    </net>
+    <net code="272" name="unconnected-(r47-Pad2)" class="Default">
+      <node ref="r47" pin="2" pintype="passive"/>
+    </net>
+    <net code="273" name="unconnected-(r48-Pad2)" class="Default">
+      <node ref="r48" pin="2" pintype="passive"/>
+    </net>
+    <net code="274" name="unconnected-(r49-Pad2)" class="Default">
+      <node ref="r49" pin="2" pintype="passive"/>
+    </net>
+    <net code="275" name="unconnected-(r50-Pad2)" class="Default">
+      <node ref="r50" pin="2" pintype="passive"/>
+    </net>
+    <net code="276" name="unconnected-(r51-Pad2)" class="Default">
+      <node ref="r51" pin="2" pintype="passive"/>
+    </net>
+    <net code="277" name="unconnected-(r52-Pad2)" class="Default">
+      <node ref="r52" pin="2" pintype="passive"/>
+    </net>
+    <net code="278" name="unconnected-(r53-Pad2)" class="Default">
+      <node ref="r53" pin="2" pintype="passive"/>
+    </net>
+    <net code="279" name="unconnected-(r54-Pad2)" class="Default">
+      <node ref="r54" pin="2" pintype="passive"/>
+    </net>
+    <net code="280" name="unconnected-(r55-Pad2)" class="Default">
+      <node ref="r55" pin="2" pintype="passive"/>
+    </net>
+    <net code="281" name="unconnected-(r56-Pad2)" class="Default">
+      <node ref="r56" pin="2" pintype="passive"/>
+    </net>
+    <net code="282" name="unconnected-(r57-Pad2)" class="Default">
+      <node ref="r57" pin="2" pintype="passive"/>
+    </net>
+    <net code="283" name="unconnected-(r58-Pad2)" class="Default">
+      <node ref="r58" pin="2" pintype="passive"/>
+    </net>
+    <net code="284" name="unconnected-(r59-Pad2)" class="Default">
+      <node ref="r59" pin="2" pintype="passive"/>
+    </net>
+    <net code="285" name="unconnected-(r60-Pad2)" class="Default">
+      <node ref="r60" pin="2" pintype="passive"/>
+    </net>
+    <net code="286" name="unconnected-(r61-Pad2)" class="Default">
+      <node ref="r61" pin="2" pintype="passive"/>
+    </net>
+    <net code="287" name="unconnected-(r62-Pad2)" class="Default">
+      <node ref="r62" pin="2" pintype="passive"/>
+    </net>
+    <net code="288" name="unconnected-(r63-Pad2)" class="Default">
+      <node ref="r63" pin="2" pintype="passive"/>
+    </net>
+    <net code="289" name="unconnected-(r64-Pad2)" class="Default">
+      <node ref="r64" pin="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>
