@@ -1209,6 +1209,156 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "slu_leds_sym:SS34"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "DIO"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SS34"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "slu_leds_lib:D_SMA"
+				(at 0 -4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.vishay.com/docs/88751/ss32.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "40V 3A Schottky Diode, SMA"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode Schottky"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "D*SMA*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SS34_0_1"
+				(polyline
+					(pts
+						(xy -1.905 0.635) (xy -1.905 1.27) (xy -1.27 1.27) (xy -1.27 -1.27) (xy -0.635 -1.27) (xy -0.635 -0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "SS34_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "slu_leds_sym:bc10µf_5054"
 			(pin_numbers
 				(hide yes)
@@ -3497,12 +3647,24 @@
 		(uuid "0911e9e1-0d30-4798-b7a0-0e0801d5614b")
 	)
 	(no_connect
+		(at 86.36 60.96)
+		(uuid "0fda7dad-62ca-4552-881c-96e501e3c8a0")
+	)
+	(no_connect
 		(at 60.96 40.64)
 		(uuid "362db44f-598b-4824-af77-7b7fe79307df")
 	)
 	(no_connect
 		(at 86.36 40.64)
 		(uuid "3ba45ac7-2f86-4bb7-8682-fc32a26b70ff")
+	)
+	(no_connect
+		(at 86.36 68.58)
+		(uuid "44aebfc7-a9e0-44a2-a494-8d523f51fa81")
+	)
+	(no_connect
+		(at 86.36 63.5)
+		(uuid "4684e91b-3f17-4298-a4e2-76a95294d5dc")
 	)
 	(no_connect
 		(at 60.96 38.1)
@@ -3517,6 +3679,26 @@
 		(uuid "596475c9-7c6f-4749-bafe-49a644ec8a4d")
 	)
 	(no_connect
+		(at 86.36 71.12)
+		(uuid "83065544-2499-4f29-b87a-f5c4b9e51b2b")
+	)
+	(no_connect
+		(at 86.36 53.34)
+		(uuid "9c6398dd-427f-4622-a8ba-75ee06411e2e")
+	)
+	(no_connect
+		(at 86.36 66.04)
+		(uuid "a1d8e6d0-64d8-41d3-b99f-70047b866acf")
+	)
+	(no_connect
+		(at 86.36 55.88)
+		(uuid "c3d80cf8-d87e-4188-af76-a6949d74ab51")
+	)
+	(no_connect
+		(at 86.36 38.1)
+		(uuid "cd4b4450-b536-48c4-8252-63699cc54693")
+	)
+	(no_connect
 		(at 86.36 48.26)
 		(uuid "cf5a17c4-9889-471b-afc7-316ae56ae29e")
 	)
@@ -3527,6 +3709,10 @@
 	(no_connect
 		(at 146.05 55.88)
 		(uuid "fbb66661-3335-4e88-bf70-5a8f25e3eac5")
+	)
+	(no_connect
+		(at 86.36 58.42)
+		(uuid "ff6a01dd-b574-4506-8873-e9abe4fc7870")
 	)
 	(wire
 		(pts
@@ -3800,16 +3986,6 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 22.86) (xy 78.74 22.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0b3704fc-fdfd-4ca2-8c4f-e5aa0a587e44")
-	)
-	(wire
-		(pts
 			(xy 90.17 223.52) (xy 68.58 223.52)
 		)
 		(stroke
@@ -3817,6 +3993,16 @@
 			(type default)
 		)
 		(uuid "0bb02893-9e37-44de-a150-fc51fa8e34b5")
+	)
+	(wire
+		(pts
+			(xy 53.34 22.86) (xy 78.74 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bb40e5a-4562-4c5d-9970-c4d7b09ba6f3")
 	)
 	(wire
 		(pts
@@ -6120,7 +6306,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 30.48) (xy 31.75 81.28)
+			(xy 31.75 34.29) (xy 31.75 81.28)
 		)
 		(stroke
 			(width 0)
@@ -7057,6 +7243,16 @@
 			(type default)
 		)
 		(uuid "be46f898-aed7-4d53-9700-65e98f6b10f2")
+	)
+	(wire
+		(pts
+			(xy 31.75 22.86) (xy 45.72 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bef4b3d7-dd4b-46ed-b049-ffc81f85b796")
 	)
 	(wire
 		(pts
@@ -8340,6 +8536,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 26.67) (xy 31.75 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc4dcb82-8744-4f6f-86ea-f15bed2611d2")
+	)
+	(wire
+		(pts
 			(xy 176.53 223.52) (xy 151.13 223.52)
 		)
 		(stroke
@@ -8487,6 +8693,16 @@
 			(justify right bottom)
 		)
 		(uuid "1bf5dddb-b526-4a85-b7ef-af158be6d419")
+	)
+	(label "battery power"
+		(at 31.75 22.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1d8c6431-7cd0-40d9-87ba-7ad57e1876cd")
 	)
 	(label "ICD11"
 		(at 170.18 109.22 0)
@@ -12128,16 +12344,15 @@
 	)
 	(symbol
 		(lib_id "a_detolib_sym:battery_cell")
-		(at 31.75 27.94 0)
+		(at 31.75 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
+		(dnp no)
 		(uuid "2542628f-08ea-4287-afa3-c96814a59f4c")
 		(property "Reference" "BT1"
-			(at 35.56 24.8284 0)
+			(at 35.306 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12146,7 +12361,7 @@
 			)
 		)
 		(property "Value" "Battery"
-			(at 35.56 27.3684 0)
+			(at 35.56 31.1784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12154,8 +12369,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "a_detolib:btry_18650_foirot"
-			(at 31.75 26.416 90)
+		(property "Footprint" "slu_leds_lib:btry_18650_foirot"
+			(at 31.75 30.226 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12164,7 +12379,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 31.75 26.416 90)
+			(at 31.75 30.226 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12173,7 +12388,7 @@
 			)
 		)
 		(property "Description" "Single-cell battery"
-			(at 31.75 27.94 0)
+			(at 31.75 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12436,7 +12651,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28aa8e45-871b-433b-bebe-0e3fcf8699ab")
 		(property "Reference" "sw1"
@@ -16404,6 +16619,73 @@
 			(project "slu"
 				(path "/783ad4de-863e-46d6-9f57-d8e7f09a6eb3"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "slu_leds_sym:SS34")
+		(at 49.53 22.86 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5a3ce2ff-f785-4e7e-b1c7-5da2ceb70e0d")
+		(property "Reference" "DIO1"
+			(at 49.784 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SS34"
+			(at 49.784 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "slu_leds_lib:D_SMA"
+			(at 49.8475 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/88751/ss32.pdf"
+			(at 49.53 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "40V 3A Schottky Diode, SMA"
+			(at 49.53 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "67c01065-9378-48cb-b7e1-705efbf6071d")
+		)
+		(pin "1"
+			(uuid "80fb388e-5e98-42b4-9989-360e3d06ccfd")
+		)
+		(instances
+			(project ""
+				(path "/783ad4de-863e-46d6-9f57-d8e7f09a6eb3"
+					(reference "DIO1")
 					(unit 1)
 				)
 			)

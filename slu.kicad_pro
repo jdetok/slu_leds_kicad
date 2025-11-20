@@ -58,7 +58,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "courtyards_overlap|87815400|81341000|8a5548fd-6b05-465e-8003-9b616ef57d75|ac0a93d2-e082-4486-801d-755a5cc46b71",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -188,6 +193,8 @@
       ],
       "track_widths": [
         0.0,
+        0.2,
+        0.6,
         1.0
       ],
       "tuning_pattern_settings": {
@@ -222,8 +229,16 @@
           "drill": 0.0
         },
         {
+          "diameter": 0.6,
+          "drill": 0.3
+        },
+        {
           "diameter": 1.2,
-          "drill": 1.2
+          "drill": 0.3
+        },
+        {
+          "diameter": 1.2,
+          "drill": 1.0
         }
       ],
       "zones_allow_external_fillets": false
@@ -496,7 +511,7 @@
         "bus_width": 12,
         "name": "btns",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgb(28, 135, 137)",
         "wire_width": 8
       },
@@ -506,7 +521,7 @@
         "line_style": 0,
         "name": "ici_data",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 2,
+        "priority": 3,
         "schematic_color": "rgb(136, 46, 80)",
         "track_width": 0.2,
         "wire_width": 6
@@ -521,7 +536,7 @@
         "microvia_drill": 0.1,
         "name": "ico_data",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 4,
+        "priority": 5,
         "schematic_color": "rgb(103, 88, 255)",
         "track_width": 0.2,
         "via_diameter": 0.6,
@@ -538,7 +553,7 @@
         "microvia_drill": 0.1,
         "name": "led",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 3,
+        "priority": 4,
         "schematic_color": "rgb(16, 120, 35)",
         "track_width": 0.4,
         "via_diameter": 0.8,
@@ -549,9 +564,19 @@
         "clearance": 0.2,
         "name": "serial",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.6
+      },
+      {
+        "clearance": 0.3,
+        "name": "thick",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 1.0,
+        "via_diameter": 1.2,
+        "via_drill": 0.4
       }
     ],
     "meta": {
@@ -599,6 +624,18 @@
       {
         "netclass": "led",
         "pattern": "/LED*"
+      },
+      {
+        "netclass": "thick",
+        "pattern": "/battery power"
+      },
+      {
+        "netclass": "Default",
+        "pattern": ""
+      },
+      {
+        "netclass": "Default",
+        "pattern": "+5V"
       }
     ]
   },
