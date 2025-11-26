@@ -15142,7 +15142,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "slu_leds_lib:bulkcap_smd"
+		(property "Footprint" "slu_leds_lib:CP_Elec_4x5.4"
 			(at 90.17 26.67 0)
 			(effects
 				(font
